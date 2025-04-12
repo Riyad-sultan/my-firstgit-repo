@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    
+}
+/* h1{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    align-items: center;
+    background-color: brown;
+    display: inline-block;
+    
+} */
+ h1{
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    align-items: center;
+    background-color: rgb(138, 222, 135);
+    display:inline-block;
+ }
